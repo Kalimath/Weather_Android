@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UCLL Weather</string>
+    <string name="search">Enter a city</string>
+    <string name="cityLabel">City:</string>
+    <string name="countryLabel">Country:</string>
+    <string name="temperatureLabel">Temperature:</string>
+    <string name="pressureLabel">Pressure:</string>
+    <string name="humidityLabel">Humidity:</string>
+    <string name="unavailable">unavailable</string>
+</resources>

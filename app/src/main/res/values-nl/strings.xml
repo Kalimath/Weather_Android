@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCLL Weather</string>
+    <string name="search">Geef een stad op</string>
+    <string name="cityLabel">"Stad: "</string>
+    <string name="countryLabel">"Land: "</string>
+    <string name="temperatureLabel">"Temperatuur: "</string>
+    <string name="pressureLabel">Druk:</string>
+    <string name="humidityLabel">"Vochtigheid: "</string>
+    <string name="unavailable">onbeschikbaar</string>
+</resources>
